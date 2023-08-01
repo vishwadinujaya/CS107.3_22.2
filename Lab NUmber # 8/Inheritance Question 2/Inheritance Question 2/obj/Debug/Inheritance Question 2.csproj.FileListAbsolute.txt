@@ -1,0 +1,8 @@
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\bin\Debug\Inheritance Question 2.exe.config
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\bin\Debug\Inheritance Question 2.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\bin\Debug\Inheritance Question 2.pdb
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\obj\Debug\Inheritance Question 2.csproj.AssemblyReference.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\obj\Debug\Inheritance Question 2.csproj.SuggestedBindingRedirects.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\obj\Debug\Inheritance Question 2.csproj.CoreCompileInputs.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\obj\Debug\Inheritance Question 2.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Inheritance Question 2\Inheritance Question 2\obj\Debug\Inheritance Question 2.pdb
