@@ -1,0 +1,8 @@
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\bin\Debug\Kilometers to Meters Parameters.exe.config
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\bin\Debug\Kilometers to Meters Parameters.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\bin\Debug\Kilometers to Meters Parameters.pdb
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\obj\Debug\Kilometers to Meters Parameters.csproj.AssemblyReference.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\obj\Debug\Kilometers to Meters Parameters.csproj.SuggestedBindingRedirects.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\obj\Debug\Kilometers to Meters Parameters.csproj.CoreCompileInputs.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\obj\Debug\Kilometers to Meters Parameters.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Kilometers to Meters Parameters\Kilometers to Meters Parameters\obj\Debug\Kilometers to Meters Parameters.pdb

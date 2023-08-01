@@ -1,0 +1,10 @@
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\bin\Debug\Area and Circumference.exe.config
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\bin\Debug\Area and Circumference.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\bin\Debug\Area and Circumference.pdb
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\obj\Debug\Area and Circumference.csproj.AssemblyReference.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\obj\Debug\Area and Circumference.csproj.SuggestedBindingRedirects.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\obj\Debug\Area and Circumference.csproj.CoreCompileInputs.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\obj\Debug\Area and Circumference.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 4\Area and Circumference\Area and Circumference\obj\Debug\Area and Circumference.pdb
+C:\Users\LapCity\Desktop\CS107.3\Lab NUmber #4\Area and Circumference\Area and Circumference\obj\Debug\Area and Circumference.exe
+C:\Users\LapCity\Desktop\CS107.3\Lab NUmber #4\Area and Circumference\Area and Circumference\obj\Debug\Area and Circumference.pdb
