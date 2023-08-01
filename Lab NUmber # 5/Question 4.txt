@@ -1,0 +1,9 @@
+Add a separate class file to Console application program and create a method call private void sayHello( ).
+
+Inside the method display hello world 
+
+In main class create class object and try to access the savHello() method by using the class object.
+
+Can you access the method? Explain why?
+
+This is since a private method can only be accessed by other methods in the same class. The main class is a different class, so it cannot access the private method. This is called as Encapsulation where the paticular method is encapsulated within the paticular method.

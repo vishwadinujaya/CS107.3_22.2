@@ -1,0 +1,8 @@
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 5\Calculator\Calculator\obj\Debug\Calculator.pdb
