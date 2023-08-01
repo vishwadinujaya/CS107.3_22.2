@@ -1,0 +1,8 @@
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\bin\Debug\Vector and Scalar.exe.config
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\bin\Debug\Vector and Scalar.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\bin\Debug\Vector and Scalar.pdb
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\obj\Debug\Vector and Scalar.csproj.AssemblyReference.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\obj\Debug\Vector and Scalar.csproj.SuggestedBindingRedirects.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\obj\Debug\Vector and Scalar.csproj.CoreCompileInputs.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\obj\Debug\Vector and Scalar.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LAB Programs\Lab 6\Vector and Scalar\Vector and Scalar\obj\Debug\Vector and Scalar.pdb

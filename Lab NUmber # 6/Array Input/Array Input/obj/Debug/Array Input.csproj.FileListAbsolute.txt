@@ -1,0 +1,8 @@
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\bin\Debug\Array Input.exe.config
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\bin\Debug\Array Input.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\bin\Debug\Array Input.pdb
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\obj\Debug\Array Input.csproj.AssemblyReference.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\obj\Debug\Array Input.csproj.SuggestedBindingRedirects.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\obj\Debug\Array Input.csproj.CoreCompileInputs.cache
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\obj\Debug\Array Input.exe
+D:\NSBM University\YEAR 1 SEM 2\4.OOP with C#\LECTURE Programs\Array Input\Array Input\obj\Debug\Array Input.pdb
